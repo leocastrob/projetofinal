@@ -73,7 +73,7 @@ form input {
 }
 
 form input:focus {
-  border-color: #2575fc;
+  border-color: #ff416c;
   outline: none;
 }
 
@@ -81,7 +81,7 @@ form button {
   width: 100%;
   padding: 12px;
   font-size: 1.1rem;
-  background-color: #2575fc;
+  background-color: #ff4b2b;
   color: white;
   border: none;
   border-radius: 8px;
@@ -90,7 +90,7 @@ form button {
 }
 
 form button:hover {
-  background-color: #6a11cb;
+  background-color: #ff416c;
 }
 
 @media (max-width: 768px) {
